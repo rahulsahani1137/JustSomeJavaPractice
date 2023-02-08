@@ -1,6 +1,6 @@
 import java.util.*;
 public class ques2 {
-    //Take two nos. as input x and n & print the result x^n?
+    //Take two nos. as input x & print the result x*100?
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number : ");
