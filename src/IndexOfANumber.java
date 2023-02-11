@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques1 {
+public class IndexOfANumber {
     //Take two nos. as input x and n & print the result x^n?
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

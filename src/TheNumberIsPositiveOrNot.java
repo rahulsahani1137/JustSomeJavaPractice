@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques5 {
+public class TheNumberIsPositiveOrNot {
 
     public static void main(String[] args){
 
