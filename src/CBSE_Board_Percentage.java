@@ -21,7 +21,7 @@ public class CBSE_Board_Percentage {
             s4 = sc.nextInt();
             System.out.print("Enter your obtained marks in subject Hindi : ");
             s5 = sc.nextInt();
-        } if (branch == 2) {
+        } else if (branch == 2) {
             System.out.print("Enter your obtained marks in subject Biology : ");
             s1 = sc.nextInt();
             System.out.print("Enter your obtained marks in subject English : ");
@@ -32,7 +32,7 @@ public class CBSE_Board_Percentage {
             s4 = sc.nextInt();
             System.out.print("Enter your obtained marks in subject Hindi : ");
             s5 = sc.nextInt();
-        } if (branch == 3) {
+        } else if (branch == 3) {
             System.out.print("Enter your obtained marks in subject Business studies : ");
             s1 = sc.nextInt();
             System.out.print("Enter your obtained marks in subject English : ");
@@ -43,7 +43,7 @@ public class CBSE_Board_Percentage {
             s4 = sc.nextInt();
             System.out.print("Enter your obtained marks in subject Hindi : ");
             s5 = sc.nextInt();
-        } if (branch == 4) {
+        } else if (branch == 4) {
             System.out.print("Enter your obtained marks in subject History : ");
             s1 = sc.nextInt();
             System.out.print("Enter your obtained marks in subject English : ");
